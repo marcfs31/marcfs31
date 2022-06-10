@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on corporate banking web applications for Crealogix Group
+- 🔭 I’m currently working on monitoring software development with Dynatrace
 - 🌱 I’m currently learning new skils in the web development world
 - 📫 How to reach me: marcfs31@gmail.com
