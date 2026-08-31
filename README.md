@@ -34,8 +34,8 @@ Enterprise software for the Justice Department’s judicial case-management syst
 ## Public work
 
 - [fileshelf](https://github.com/marcfs31/fileshelf) — terminal file organiser
+- [iterm-studio](https://github.com/marcfs31/iterm-studio) — one-click iTerm2 looks: 121 presets and a matching Powerlevel10k prompt
 - [media-downloader](https://github.com/marcfs31/media-downloader) — browser extension + native host via yt-dlp
-- [SmartGarden](https://github.com/marcfs31/SmartGarden) — embedded garden controller in C++
 - [SpotiApp](https://github.com/marcfs31/SpotiApp) — Angular app on the Spotify API
 
 Private product work (Habit Breaker, Agent Switchboard, Finance Dashboard) is listed on [marcfors.com](https://marcfors.com) without exposing the repos.
