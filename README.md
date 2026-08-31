@@ -1,34 +1,51 @@
-<!-- **marcfs31/marcfs31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# Marc Fors
 
-### 🌟 Marc Fors | Full-Stack Software Engineer | React | Angular | Java 🌟
+**Frontend software engineer** · Barcelona · EU citizen  
+React · TypeScript · Angular
 
-Welcome to my GitHub universe, where each commit is a testament to my evolution as a developer and a glimpse into the future of web technology. 💻🚀
+[marcfors.com](https://marcfors.com) · [LinkedIn](https://www.linkedin.com/in/marc-fors) · [developer@marcfors.com](mailto:developer@marcfors.com)
 
-🔍 **About Me:**
+Frontend software engineer with 7+ years delivering enterprise web applications across observability, fintech, banking and government. Strong in React and TypeScript, with earlier full-stack work in Java and Spring. I own features from technical design through production, raise test and CI quality, and mentor people onto the codebase.
 
-I'm a Barcelona-based coding expert developing web apps in React, after years of developing web apps with Angular.
-My odyssey in tech is marked by a seamless transition from structured, enterprise-level Angular applications to the reactive realms of React, crafting user interfaces that are as performant as they are delightful.
+Open to frontend software engineer roles.
 
-🔧 **Skills:**
-- **React Realm:** Building dynamic, high-performance UIs that sing on the web
-- **Angular Legacy:** Expertise in developing scalable and robust front-end architectures
-- **Backend Engineering:** Java expertise, crafting solid and secure back-end services
-- **Quality Assurance and Testing:** Ensuring top-notch user experiences with GWT, Selenium, TestCafé and Playwright
-- **Git:** Orchestrating code versions and team collaborations
-- **Database:** Commanding data flow with Oracle, SQL Server, MySQL, Postgres
-- **Tech Support:** Expertise in assembling, troubleshooting, and maintaining PCs and Servers
+## Experience
 
-🎓 **Educational Score:**
-- Computer Engineering (Dropped out) - Universitat Oberta de Catalunya
-- Higher Technician in Multi-platform Applications Development - Institut Joan d’Àustria
-- Technician in Microcomputer Systems and Networks - Institut Escola del Treball
+**Software Engineer — Dynatrace** · May 2022 – Nov 2025  
+Frontend for Dashboards and Notebooks: Angular, then React and TypeScript. Built a shared frontend library used by both products. Led work from technical design through release. Mentored new engineers, raised automated test coverage by ~20% on a critical project, and cut the integration-test suite so Jenkins ran faster.
 
-🌐 **Linguistic Fluency:**
-- Proficient in:
-  - English
-  - Spanish
-  - Catalan
-- Basic in:
-  - Italian
+**Software Engineer — CREALOGIX Group** · May 2020 – May 2022  
+Enterprise Angular for retail and private banking products in Saudi Aramco’s banking environment. Reusable components in a large shared framework, desktop and mobile.
 
-Join me on this expedition through code, where legacy meets innovation, and where React and Angular coalesce to create responsive, robust web experiences. Let's code, connect, and collaborate.
+**Software Developer — T-Systems Iberia** · Jun 2018 – Apr 2020  
+Enterprise software for the Justice Department’s judicial case-management system. Java 7/8 services with Spring, Struts, REST APIs, Oracle and SQL Server.
+
+*Career break · Dec 2025 – present — personal matters, staying current with React, looking for the next frontend role.*
+
+## Stack
+
+| | |
+| --- | --- |
+| **Frontend** | React, TypeScript, JavaScript, Angular, HTML5, CSS3, RxJS, accessibility, state management |
+| **Testing** | React Testing Library, Jest, Playwright, integration testing |
+| **Engineering** | Git, CI/CD, Jenkins, Agile, code reviews, mentoring |
+| **Backend** | Java, Spring, Struts, REST APIs, Oracle, SQL Server |
+
+## Public work
+
+- [fileshelf](https://github.com/marcfs31/fileshelf) — terminal file organiser
+- [media-downloader](https://github.com/marcfs31/media-downloader) — browser extension + native host via yt-dlp
+- [SmartGarden](https://github.com/marcfs31/SmartGarden) — embedded garden controller in C++
+- [SpotiApp](https://github.com/marcfs31/SpotiApp) — Angular app on the Spotify API
+
+Private product work (Habit Breaker, Agent Switchboard, Finance Dashboard) is listed on [marcfors.com](https://marcfors.com) without exposing the repos.
+
+## Education
+
+- Computer Engineering coursework — Universitat Oberta de Catalunya, 2021–2022
+- Higher Technician in Multi-Platform Applications (CFGS — DAM) — Institut Joan d’Àustria, 2017–2019
+- Technician in Microcomputer Systems and Networks (CFGM — SMX) — Institut Escola del Treball, 2015–2017
+
+## Languages
+
+Spanish and Catalan native. English proficient. Italian — basic working proficiency. Portuguese basic. German beginner (currently learning).
