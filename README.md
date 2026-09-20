@@ -30,8 +30,8 @@ Before that: **7+ years** shipping enterprise web applications across observabil
 
 ## 💼 Experience
 
-**🚀 Independent practice** · *Dec 2025 – present*  
-Building complete products solo with LLM agents as the delivery team: a shared design system, an observability agent with its own ML scoring module, a model-serving platform that retrains itself.
+**🚀 AI Software Engineer — [Fors Corp](https://github.com/Fors-Corp)** · *Dec 2025 – present*  
+Building complete products solo with LLM agents as the delivery team: a shared design system, an observability agent with its own ML scoring module, LMaaS, a self-hosted model service that retrains itself.
 
 **Software Engineer — Dynatrace** · *May 2022 – Nov 2025*  
 Frontend for Dashboards and Notebooks: Angular, then React and TypeScript. Built a shared frontend library used by both products. Led work from technical design through release. Mentored new engineers, raised automated test coverage by **~20%** on a critical project, and cut the integration-test suite so Jenkins ran faster.
@@ -84,14 +84,14 @@ Enterprise software for the Justice Department's judicial case-management system
 
 ## 🚀 Selected work
 
-### [forsight](https://github.com/marcfs31/forsight)
-[![CI](https://github.com/marcfs31/forsight/actions/workflows/ci.yml/badge.svg)](https://github.com/marcfs31/forsight/actions/workflows/ci.yml)
+### [forsight](https://github.com/Fors-Corp/forsight)
+[![CI](https://github.com/Fors-Corp/forsight/actions/workflows/ci.yml/badge.svg)](https://github.com/Fors-Corp/forsight/actions/workflows/ci.yml)
 [![Storybook](https://img.shields.io/badge/Storybook-live-16C7B0)](https://marcfs31.github.io/forsight/)
 
 Observability platform: a Go agent (collectors, in-memory store, HTTP API, embedded dashboard) with **Forseer** 🧠 — its own AI/ML module scoring the stream for anomalies and forecasts — rendered through a published React design system.
 
-### [fors-design-system](https://github.com/marcfs31/fors-design-system)
-[![CI](https://github.com/marcfs31/fors-design-system/actions/workflows/ci.yml/badge.svg)](https://github.com/marcfs31/fors-design-system/actions/workflows/ci.yml)
+### [fors-design-system](https://github.com/Fors-Corp/fors-design-system)
+[![CI](https://github.com/Fors-Corp/fors-design-system/actions/workflows/ci.yml/badge.svg)](https://github.com/Fors-Corp/fors-design-system/actions/workflows/ci.yml)
 [![Storybook](https://img.shields.io/badge/Storybook-live-16C7B0)](https://marcfs31.github.io/fors-design-system/)
 
 Shared React component library and brand tokens behind every product I ship: **30 Radix-backed components**, dark/light theming, **WCAG 2.1 AA**, published to GitHub Packages.
@@ -100,17 +100,17 @@ Shared React component library and brand tokens behind every product I ship: **3
 
 | Project | What it is |
 | --- | --- |
-| 🩺 **[health-overview](https://github.com/marcfs31/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health |
+| 🩺 **[health-overview](https://github.com/Fors-Corp/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health |
 | 📚 **[wordkeep](https://github.com/marcfs31/wordkeep)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages |
-| 🖥️ **[marcfors.com](https://github.com/marcfs31/marcfors.com)** | This portfolio: first-party web vitals, a supply-chain audit on every build, six locales |
+| 🖥️ **[marcfors.com](https://github.com/Fors-Corp/marcfors.com)** | This portfolio: first-party web vitals, a supply-chain audit on every build, six locales |
 | 🗂️ **[fileshelf](https://github.com/marcfs31/fileshelf)** | Terminal file organiser with a curated TUI |
 | 🎨 **[iterm-studio](https://github.com/marcfs31/iterm-studio)** | 121 one-click iTerm2 + Powerlevel10k presets |
-| 🧹 **[file-cleaner](https://github.com/marcfs31/file-cleaner)** | Quarantine-based, privacy-preserving macOS disk cleanup |
+| 🧹 **[file-cleaner](https://github.com/Fors-Corp/file-cleaner)** | Quarantine-based, privacy-preserving macOS disk cleanup |
 | 📊 **[hyper-top](https://github.com/marcfs31/hyper-top)** | Terminal system monitor, written in Rust |
 | ⬇️ **[media-downloader](https://github.com/marcfs31/media-downloader)** | Browser extension + native host via `yt-dlp` |
 | 🎵 **[SpotiApp](https://github.com/marcfs31/SpotiApp)** | Angular app on the Spotify API — an earlier phase |
 
-🔒 **Private product work** — **mlaas** (a local model training/serving/retraining API behind SemVer releases), **Agent Switchboard** (ops desk for my agent sessions), **Habit Breaker**, **Finance Dashboard**, **GH Dashboard**, **Business Manager** — is showcased on [marcfors.com](https://marcfors.com) without exposing the repos.
+🔒 **Private product work** — **LMaaS** (self-hosted model service on Apple Silicon: local models over an OpenAI-compatible API, plus ML training and retraining behind SemVer releases), **Agent Switchboard** (ops desk for my agent sessions), **Habit Breaker**, **Finance Dashboard**, **GH Dashboard**, **Business Manager** — is showcased on [marcfors.com](https://marcfors.com) without exposing the repos.
 
 ---
 
