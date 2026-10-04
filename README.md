@@ -24,7 +24,29 @@ I build **complete products with LLM agents as my delivery team**. I run **Claud
 
 Before that: **7+ years** shipping enterprise web applications across observability, fintech, banking and government — mostly React/TypeScript, with earlier full-stack Java.
 
-> 🟢 **Open to AI engineering / LLM-agent roles, and bespoke product work.**
+> 🟢 **Open to AI engineering / LLM-agent roles, and to client projects through Fors Corp.**
+
+---
+
+## 🤝 Work with me
+
+I take on a small number of independent projects:
+
+- **AI features and LLM integrations** added to an existing product
+- **Agents and automation** that fit a real workflow
+- **Full-stack web apps** (Next.js, React, TypeScript) with tests, CI and observability from day one
+- **Prototypes** that can grow into a product
+
+Small scope, clear milestones, working software early. Write to [developer@marcfors.com](mailto:developer@marcfors.com).
+
+☕ **I build in the open.** If my open source work is useful to you, you can [support it here](https://marcfors.com/donate). Optional, and appreciated.
+
+---
+
+## 📈 Last 12 months
+
+**2,800+** contributions · **640+** commits · **310+** pull requests · **18** repos · **14** public projects in [Fors-Corp](https://github.com/Fors-Corp)  
+Go · Rust · TypeScript · Python — shipped with CI on every merge.
 
 ---
 
@@ -100,14 +122,16 @@ Shared React component library and brand tokens behind every product I ship: **3
 
 | Project | What it is |
 | --- | --- |
+| 🧬 **[fors](https://github.com/Fors-Corp/fors)** | An experimental systems programming language: own backends (no LLVM), capability security, deterministic parallelism. Spec, conformance corpus, Rust bootstrap compiler |
+| ✅ **[agent-fundamentals](https://github.com/Fors-Corp/agent-fundamentals)** | Checklist for working professionally with Claude and coding agents, in 7 languages (MIT) |
 | 🩺 **[health-overview](https://github.com/Fors-Corp/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health |
-| 📚 **[wordkeep](https://github.com/marcfs31/wordkeep)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages |
+| 📚 **[wordkeep](https://github.com/Fors-Corp/wordkeep)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages |
 | 🖥️ **[marcfors.com](https://github.com/Fors-Corp/marcfors.com)** | This portfolio: first-party web vitals, a supply-chain audit on every build, six locales |
-| 🗂️ **[fileshelf](https://github.com/marcfs31/fileshelf)** | Terminal file organiser with a curated TUI |
-| 🎨 **[iterm-studio](https://github.com/marcfs31/iterm-studio)** | 121 one-click iTerm2 + Powerlevel10k presets |
+| 🗂️ **[fileshelf](https://github.com/Fors-Corp/fileshelf)** | Terminal file organiser with a curated TUI |
+| 🎨 **[iterm-studio](https://github.com/Fors-Corp/iterm-studio)** | 121 one-click iTerm2 + Powerlevel10k presets |
 | 🧹 **[file-cleaner](https://github.com/Fors-Corp/file-cleaner)** | Quarantine-based, privacy-preserving macOS disk cleanup |
-| 📊 **[hyper-top](https://github.com/marcfs31/hyper-top)** | Terminal system monitor, written in Rust |
-| ⬇️ **[media-downloader](https://github.com/marcfs31/media-downloader)** | Browser extension + native host via `yt-dlp` |
+| 📊 **[hyper-top](https://github.com/Fors-Corp/hyper-top)** | Terminal system monitor, written in Rust |
+| ⬇️ **[media-downloader](https://github.com/Fors-Corp/media-downloader)** | Browser extension + native host via `yt-dlp` |
 | 🎵 **[SpotiApp](https://github.com/marcfs31/SpotiApp)** | Angular app on the Spotify API — an earlier phase |
 
 🔒 **Private product work** — **LMaaS** (self-hosted model service on Apple Silicon: local models over an OpenAI-compatible API, plus ML training and retraining behind SemVer releases), **Agent Switchboard** (ops desk for my agent sessions), **Habit Breaker**, **Finance Dashboard**, **GH Dashboard**, **Business Manager** — is showcased on [marcfors.com](https://marcfors.com) without exposing the repos.
