@@ -43,10 +43,11 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 
 ---
 
-## 📈 Last 12 months
+## 📈 Last 12 months · through 16 Oct 2026
 
-**2,800+** contributions · **640+** commits · **310+** pull requests · **18** repos · **14** public projects in [Fors-Corp](https://github.com/Fors-Corp)  
-Go · Rust · TypeScript · Python — shipped with CI on every merge.
+**3,408** contributions · **2,774** commits · **604** pull-request contributions · **14** reviews
+
+GitHub totals include public and private contributions across personal and organization repositories. Go · Rust · TypeScript · Python — shipped with CI on every merge.
 
 ---
 
@@ -124,8 +125,10 @@ Shared React component library and brand tokens behind every product I ship: **3
 | --- | --- |
 | 🧬 **[fors](https://github.com/Fors-Corp/fors)** | An experimental systems programming language: own backends (no LLVM), capability security, deterministic parallelism. Spec, conformance corpus, Rust bootstrap compiler |
 | ✅ **[agent-fundamentals](https://github.com/Fors-Corp/agent-fundamentals)** | Checklist for working professionally with Claude and coding agents, in 7 languages (MIT) |
-| 🩺 **[health-overview](https://github.com/Fors-Corp/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health |
-| 📚 **[wordkeep](https://github.com/Fors-Corp/wordkeep)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages |
+| 🩺 **[health-overview](https://github.com/Fors-Corp/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health; recent work added spend guardrails, weight phases and notes-log import ([PR #13](https://github.com/Fors-Corp/health-overview/pull/13), [PR #9](https://github.com/Fors-Corp/health-overview/pull/9)) |
+| 📚 **[wordkeep](https://github.com/Fors-Corp/wordkeep)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages; recent work added device-first storage with optional sync and a seven-language UI ([PR #6](https://github.com/Fors-Corp/wordkeep/pull/6), [PR #5](https://github.com/Fors-Corp/wordkeep/pull/5)) |
+| ☁️ **[self-hosted-cloud](https://github.com/marcfs31/self-hosted-cloud)** | Private file cloud for a Raspberry Pi 5, reachable over Tailscale; recent work hardened CI and pinned container base images ([PR #2](https://github.com/marcfs31/self-hosted-cloud/pull/2)) |
+| 🧑‍💻 **[InterviewKit](https://github.com/marcfs31/interviewkit-fors-edition)** | AI-assisted technical interview practice with code feedback and study cards; recent work improved AI feedback, accessibility and security ([PR #19](https://github.com/marcfs31/interviewkit-fors-edition/pull/19), [PR #15](https://github.com/marcfs31/interviewkit-fors-edition/pull/15), [PR #14](https://github.com/marcfs31/interviewkit-fors-edition/pull/14)) |
 | 🖥️ **[marcfors.com](https://github.com/Fors-Corp/marcfors.com)** | This portfolio: first-party web vitals, a supply-chain audit on every build, six locales |
 | 🗂️ **[fileshelf](https://github.com/Fors-Corp/fileshelf)** | Terminal file organiser with a curated TUI |
 | 🎨 **[iterm-studio](https://github.com/Fors-Corp/iterm-studio)** | 121 one-click iTerm2 + Powerlevel10k presets |
