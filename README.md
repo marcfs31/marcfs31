@@ -43,11 +43,15 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 
 ---
 
-## 📈 Last 12 months · through 16 Oct 2026
+## 📈 Last 12 months · 17 Oct 2025 07:01:12–17 Oct 2026 07:01:12 UTC
 
-**3,408** contributions · **2,774** commits · **604** pull-request contributions · **14** reviews
+**3,446** contributions · **2,804** commits · **612** pull-request contributions · **14** reviews · **6** issues · **8** repository contributions
 
-GitHub totals include public and private contributions across personal and organization repositories. Go · Rust · TypeScript · Python — shipped with CI on every merge.
+Totals include public and private work across personal and organization repositories; repository visibility and owner do not filter these figures.
+
+Recent public work: [focus-ring contrast fix (#104)](https://github.com/Fors-Corp/fors-design-system/pull/104) · [accessible portfolio and live GitHub activity (#56)](https://github.com/Fors-Corp/marcfors.com/pull/56) · [Wordkeep audit fixes (#7)](https://github.com/Fors-Corp/wordkeep/pull/7)
+
+Go · Rust · TypeScript · Python — shipped with CI on every merge.
 
 ---
 
