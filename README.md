@@ -43,13 +43,13 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 
 ---
 
-## 📈 Last 12 months · 17 Oct 2025 07:01:12–17 Oct 2026 07:01:12 UTC
+## 📈 Last 12 months · 18 Oct 2025 12:27:39–18 Oct 2026 12:27:39 UTC
 
-**3,446** contributions · **2,804** commits · **612** pull-request contributions · **14** reviews · **6** issues · **8** repository contributions
+**3,528** contributions
 
-Totals include public and private work across personal and organization repositories; repository visibility and owner do not filter these figures.
+Total includes public and private work across personal and organization repositories, including Fors Corp; repository visibility and owner do not filter this figure.
 
-Recent public work: [focus-ring contrast fix (#104)](https://github.com/Fors-Corp/fors-design-system/pull/104) · [accessible portfolio and live GitHub activity (#56)](https://github.com/Fors-Corp/marcfors.com/pull/56) · [Wordkeep audit fixes (#7)](https://github.com/Fors-Corp/wordkeep/pull/7)
+Recent public work: [raise focus ring to 3:1 on every ink surface (#104)](https://github.com/Fors-Corp/fors-design-system/pull/104) · [accessible portfolio, Gatto success story and live GitHub activity (#56)](https://github.com/Fors-Corp/marcfors.com/pull/56) · [audit fixes across server, device storage, sync, pages and translations (#7)](https://github.com/Fors-Corp/wordkeep/pull/7)
 
 Go · Rust · TypeScript · Python — shipped with CI on every merge.
 
@@ -58,7 +58,7 @@ Go · Rust · TypeScript · Python — shipped with CI on every merge.
 ## 💼 Experience
 
 **🚀 AI Software Engineer — [Fors Corp](https://github.com/Fors-Corp)** · *Dec 2025 – present*  
-Building complete products solo with LLM agents as the delivery team: a shared design system, an observability agent with its own ML scoring module, LMaaS, a self-hosted model service that retrains itself.
+Building complete products solo with LLM agents as the delivery team: a shared design system and an observability agent with its own ML scoring module.
 
 **Software Engineer — Dynatrace** · *May 2022 – Nov 2025*  
 Frontend for Dashboards and Notebooks: Angular, then React and TypeScript. Built a shared frontend library used by both products. Led work from technical design through release. Mentored new engineers, raised automated test coverage by **~20%** on a critical project, and cut the integration-test suite so Jenkins ran faster.
@@ -141,7 +141,7 @@ Shared React component library and brand tokens behind every product I ship: **3
 | ⬇️ **[media-downloader](https://github.com/Fors-Corp/media-downloader)** | Browser extension + native host via `yt-dlp` |
 | 🎵 **[SpotiApp](https://github.com/marcfs31/SpotiApp)** | Angular app on the Spotify API — an earlier phase |
 
-🔒 **Private product work** — **LMaaS** (self-hosted model service on Apple Silicon: local models over an OpenAI-compatible API, plus ML training and retraining behind SemVer releases), **Agent Switchboard** (ops desk for my agent sessions), **Habit Breaker**, **Finance Dashboard**, **GH Dashboard**, **Business Manager** — is showcased on [marcfors.com](https://marcfors.com) without exposing the repos.
+🔒 **Private product work** is showcased on [marcfors.com](https://marcfors.com) without exposing the repos.
 
 ---
 
