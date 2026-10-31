@@ -46,7 +46,24 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 ## 📈 Contributions
 
 <!-- CONTRIBUTIONS:START -->
-_Stats appear after the first workflow run._
+| | Last 12 months | All time (since 2017) |
+| --- | ---: | ---: |
+| Commits | 253 | 306 |
+| Pull requests | 30 | 30 |
+| Issues | 0 | 0 |
+| Pull request reviews | 0 | 0 |
+| Private contributions (restricted) | 180 | 302 |
+| **Total contributions** | **469** | **680** |
+
+**Commits in [Fors Corp](https://github.com/Fors-Corp) repositories**
+
+| Repository | Last 12 months | All time |
+| --- | ---: | ---: |
+| _No commits found_ | 0 | 0 |
+
+Last 12 months: 2025-10-25 to 2026-10-31 (UTC). Totals include private work; private repository names are not shown.
+
+_Last updated: 2026-10-31 (Europe/Madrid)_
 <!-- CONTRIBUTIONS:END -->
 
 Recent public work: [raise focus ring to 3:1 on every ink surface (#104)](https://github.com/Fors-Corp/fors-design-system/pull/104) · [accessible portfolio, Gatto success story and live GitHub activity (#56)](https://github.com/Fors-Corp/marcfors.com/pull/56)
