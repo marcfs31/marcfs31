@@ -18,14 +18,14 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Check out master
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: master
 
-      - name: Set up Node 20
-        uses: actions/setup-node@v4
+      - name: Set up Node 24
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Update contributions block
         env:
