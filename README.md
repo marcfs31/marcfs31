@@ -43,13 +43,13 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 
 ---
 
-## 📈 Last 12 months · 18 Oct 2025 12:27:39–18 Oct 2026 12:27:39 UTC
+## 📈 Contributions
 
-**3,528** contributions
+<!-- CONTRIBUTIONS:START -->
+_Stats appear after the first workflow run._
+<!-- CONTRIBUTIONS:END -->
 
-Total includes public and private work across personal and organization repositories, including Fors Corp; repository visibility and owner do not filter this figure.
-
-Recent public work: [raise focus ring to 3:1 on every ink surface (#104)](https://github.com/Fors-Corp/fors-design-system/pull/104) · [accessible portfolio, Gatto success story and live GitHub activity (#56)](https://github.com/Fors-Corp/marcfors.com/pull/56) · [audit fixes across server, device storage, sync, pages and translations (#7)](https://github.com/Fors-Corp/wordkeep/pull/7)
+Recent public work: [raise focus ring to 3:1 on every ink surface (#104)](https://github.com/Fors-Corp/fors-design-system/pull/104) · [accessible portfolio, Gatto success story and live GitHub activity (#56)](https://github.com/Fors-Corp/marcfors.com/pull/56)
 
 Go · Rust · TypeScript · Python — shipped with CI on every merge.
 
@@ -123,6 +123,21 @@ Observability platform: a Go agent (collectors, in-memory store, HTTP API, embed
 
 Shared React component library and brand tokens behind every product I ship: **30 Radix-backed components**, dark/light theming, **WCAG 2.1 AA**, published to GitHub Packages.
 
+### [wordkeep](https://wordkeep.me)
+[![Live](https://img.shields.io/badge/wordkeep.me-live-16C7B0)](https://wordkeep.me)
+
+Personal lexicon with active recall, etymology, and a 3D cross-language word atlas.
+
+### [Mensura](https://www.mensura.cc/)
+[![Live](https://img.shields.io/badge/mensura.cc-live-16C7B0)](https://www.mensura.cc/)
+
+Private, offline-first hourly consumption tracker.
+
+### [Fors Photography](https://fors-photography.vercel.app)
+[![Live](https://img.shields.io/badge/fors--photography-live-16C7B0)](https://fors-photography.vercel.app)
+
+Fine art print shop for my photographs — Next.js 16, Stripe Checkout, Vercel.
+
 ### 📌 More
 
 | Project | What it is |
@@ -130,7 +145,7 @@ Shared React component library and brand tokens behind every product I ship: **3
 | 🧬 **[fors](https://github.com/Fors-Corp/fors)** | An experimental systems programming language: own backends (no LLVM), capability security, deterministic parallelism. Spec, conformance corpus, Rust bootstrap compiler |
 | ✅ **[agent-fundamentals](https://github.com/Fors-Corp/agent-fundamentals)** | Checklist for working professionally with Claude and coding agents, in 7 languages (MIT) |
 | 🩺 **[health-overview](https://github.com/Fors-Corp/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health; recent work added spend guardrails, weight phases and notes-log import ([PR #13](https://github.com/Fors-Corp/health-overview/pull/13), [PR #9](https://github.com/Fors-Corp/health-overview/pull/9)) |
-| 📚 **[wordkeep](https://github.com/Fors-Corp/wordkeep)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages; recent work added device-first storage with optional sync and a seven-language UI ([PR #6](https://github.com/Fors-Corp/wordkeep/pull/6), [PR #5](https://github.com/Fors-Corp/wordkeep/pull/5)) |
+| 📚 **[wordkeep](https://wordkeep.me)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages; recent work added device-first storage with optional sync and a seven-language UI |
 | ☁️ **[self-hosted-cloud](https://github.com/marcfs31/self-hosted-cloud)** | Private file cloud for a Raspberry Pi 5, reachable over Tailscale; recent work hardened CI and pinned container base images ([PR #2](https://github.com/marcfs31/self-hosted-cloud/pull/2)) |
 | 🧑‍💻 **[InterviewKit](https://github.com/marcfs31/interviewkit-fors-edition)** | AI-assisted technical interview practice with code feedback and study cards; recent work improved AI feedback, accessibility and security ([PR #19](https://github.com/marcfs31/interviewkit-fors-edition/pull/19), [PR #15](https://github.com/marcfs31/interviewkit-fors-edition/pull/15), [PR #14](https://github.com/marcfs31/interviewkit-fors-edition/pull/14)) |
 | 🖥️ **[marcfors.com](https://github.com/Fors-Corp/marcfors.com)** | This portfolio: first-party web vitals, a supply-chain audit on every build, six locales |

@@ -1,0 +1,45 @@
+name: Update contributions
+
+on:
+  schedule:
+    - cron: '15 5 * * *' # daily, 05:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-contributions
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out master
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Update contributions block
+        env:
+          CONTRIBUTIONS_TOKEN: ${{ secrets.CONTRIBUTIONS_TOKEN }}
+        run: node scripts/update-contributions.js
+
+      - name: Commit README.md if the block changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "No changes to README.md."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore(readme): update contribution stats"
+          git push origin HEAD:master
