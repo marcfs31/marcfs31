@@ -53,8 +53,6 @@ Commits 938 · Pull requests 388 · Reviews 23 · Private 2,653 (last 12 months,
 _Last updated: 2026-10-31 (Europe/Madrid)_
 <!-- CONTRIBUTIONS:END -->
 
-Recent public work: [raise focus ring to 3:1 on every ink surface (#104)](https://github.com/Fors-Corp/fors-design-system/pull/104) · [accessible portfolio, Gatto success story and live GitHub activity (#56)](https://github.com/Fors-Corp/marcfors.com/pull/56)
-
 Go · Rust · TypeScript · Python — shipped with CI on every merge.
 
 ---
