@@ -46,9 +46,9 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 ## 📈 Contributions
 
 <!-- CONTRIBUTIONS:START -->
-**4,010** contributions in the last 12 months · **4,221** all time
+**4,016** contributions in the last 12 months · **4,227** all time
 
-Commits 938 · Pull requests 388 · Reviews 23 · Private 2,653 (last 12 months, public + private, personal + Fors Corp)
+Commits 940 · Pull requests 389 · Reviews 26 · Private 2,653 (last 12 months, public + private, personal + Fors Corp)
 
 _Last updated: 2026-10-31 (Europe/Madrid)_
 <!-- CONTRIBUTIONS:END -->
