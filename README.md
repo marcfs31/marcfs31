@@ -46,22 +46,9 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 ## 📈 Contributions
 
 <!-- CONTRIBUTIONS:START -->
-| | Last 12 months | All time (since 2017) |
-| --- | ---: | ---: |
-| Commits | 253 | 306 |
-| Pull requests | 30 | 30 |
-| Issues | 0 | 0 |
-| Pull request reviews | 0 | 0 |
-| Private contributions (restricted) | 180 | 302 |
-| **Total contributions** | **469** | **680** |
+**4,010** contributions in the last 12 months · **4,221** all time
 
-**Commits in [Fors Corp](https://github.com/Fors-Corp) repositories**
-
-| Repository | Last 12 months | All time |
-| --- | ---: | ---: |
-| _No commits found_ | 0 | 0 |
-
-Last 12 months: 2025-10-25 to 2026-10-31 (UTC). Totals include private work; private repository names are not shown.
+Commits 938 · Pull requests 388 · Reviews 23 · Private 2,653 (last 12 months, public + private, personal + Fors Corp)
 
 _Last updated: 2026-10-31 (Europe/Madrid)_
 <!-- CONTRIBUTIONS:END -->
