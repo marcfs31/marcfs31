@@ -152,13 +152,13 @@ Enterprise software for the Justice Department's judicial case-management system
 [![Repo](https://img.shields.io/badge/Fors--Corp%2FMensura-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/Mensura)
 [![Live](https://img.shields.io/badge/mensura.cc-live-16C7B0)](https://www.mensura.cc/)
 
-Private, offline-first hourly tracker that learns an on-device forecast from your own logs — timing, recency, amounts and recurring patterns stay in the browser.
+Private, offline-first hourly tracker with a self-made ML model that learns an on-device forecast from your own logs — timing, recency, amounts and recurring patterns stay in the browser.
 
 ### [Wordkeep](https://github.com/Fors-Corp/wordkeep)
 [![Repo](https://img.shields.io/badge/Fors--Corp%2Fwordkeep-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/wordkeep)
 [![Live](https://img.shields.io/badge/wordkeep.me-live-16C7B0)](https://wordkeep.me)
 
-Personal lexicon with spaced-repetition review, etymology, and a 3D atlas linking words across languages — device-first storage, optional end-to-end encrypted sync. App Store release pending.
+Personal lexicon with spaced-repetition review, etymology, and a 3D atlas linking words across languages — an LLM is integrated via API for phrase breakdown, with device-first storage and optional end-to-end encrypted sync. App Store release pending.
 
 ### [Embedded RAG](https://github.com/Fors-Corp/embedded-rag)
 [![Repo](https://img.shields.io/badge/Fors--Corp%2Fembedded--rag-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/embedded-rag)
