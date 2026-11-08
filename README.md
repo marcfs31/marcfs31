@@ -81,37 +81,90 @@ Enterprise software for the Justice Department's judicial case-management system
 ![Cursor](https://img.shields.io/badge/Cursor-16C7B0?style=flat-square&logo=cursor&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-16C7B0?style=flat-square&logo=x&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP%20servers-16C7B0?style=flat-square)
+![Claude API](https://img.shields.io/badge/Claude%20API-16C7B0?style=flat-square&logo=claude&logoColor=white)
 
 **🧠 AI / ML**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0d0d10?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-0d0d10?style=flat-square)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-0d0d10?style=flat-square)
 ![Forecasting](https://img.shields.io/badge/Forecasting-0d0d10?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/CV%20Extraction-0d0d10?style=flat-square)
+![Local models](https://img.shields.io/badge/Local%20models-0d0d10?style=flat-square)
+
+**💻 Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 **🎨 Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![Accessibility](https://img.shields.io/badge/WCAG%202.1%20AA-0d0d10?style=flat-square)
+
+**⚙️ Backend & APIs**  
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Struts](https://img.shields.io/badge/Struts-0d0d10?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d0d10?style=flat-square)
+
+**🗄️ Data**  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=flat-square&logo=neon&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **✅ Testing**  
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
-**⚙️ Engineering & Backend**  
+**🚀 Platform & delivery**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![GitHub Packages](https://img.shields.io/badge/GitHub%20Packages-2088FF?style=flat-square&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Selected work
+
+**Featured** — [Mensura](https://github.com/Fors-Corp/Mensura), [Wordkeep](https://github.com/Fors-Corp/wordkeep), [Embedded RAG](https://github.com/Fors-Corp/embedded-rag)
+
+### [Mensura](https://github.com/Fors-Corp/Mensura)
+[![Repo](https://img.shields.io/badge/Fors--Corp%2FMensura-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/Mensura)
+[![Live](https://img.shields.io/badge/mensura.cc-live-16C7B0)](https://www.mensura.cc/)
+
+Private, offline-first hourly tracker with a self-made ML model that learns an on-device forecast from your own logs — timing, recency, amounts and recurring patterns stay in the browser.
+
+### [Wordkeep](https://github.com/Fors-Corp/wordkeep)
+[![Repo](https://img.shields.io/badge/Fors--Corp%2Fwordkeep-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/wordkeep)
+[![Live](https://img.shields.io/badge/wordkeep.me-live-16C7B0)](https://wordkeep.me)
+
+Personal lexicon with spaced-repetition review, etymology, and a 3D atlas linking words across languages — an LLM is integrated via API for phrase breakdown, with device-first storage and optional end-to-end encrypted sync. App Store release pending.
+
+### [Embedded RAG](https://github.com/Fors-Corp/embedded-rag)
+[![Repo](https://img.shields.io/badge/Fors--Corp%2Fembedded--rag-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/embedded-rag)
+[![Live](https://img.shields.io/badge/embedded--rag.vercel.app-live-16C7B0)](https://embedded-rag.vercel.app/)
+
+Local-first retrieval-augmented generation — embed your own documents in-process and ground LLM answers with retrieved context.
 
 ### [forsight](https://github.com/Fors-Corp/forsight)
 [![CI](https://github.com/Fors-Corp/forsight/actions/workflows/ci.yml/badge.svg)](https://github.com/Fors-Corp/forsight/actions/workflows/ci.yml)
@@ -125,16 +178,6 @@ Observability platform: a Go agent (collectors, in-memory store, HTTP API, embed
 
 Shared React component library and brand tokens behind every product I ship: **30 Radix-backed components**, dark/light theming, **WCAG 2.1 AA**, published to GitHub Packages.
 
-### [wordkeep](https://wordkeep.me)
-[![Live](https://img.shields.io/badge/wordkeep.me-live-16C7B0)](https://wordkeep.me)
-
-Personal lexicon with active recall, etymology, and a 3D cross-language word atlas.
-
-### [Mensura](https://www.mensura.cc/)
-[![Live](https://img.shields.io/badge/mensura.cc-live-16C7B0)](https://www.mensura.cc/)
-
-Private, offline-first hourly consumption tracker.
-
 ### [Fors Photography](https://fors-photography.vercel.app)
 [![Live](https://img.shields.io/badge/fors--photography-live-16C7B0)](https://fors-photography.vercel.app)
 
@@ -147,7 +190,6 @@ Fine art print shop for my photographs — Next.js 16, Stripe Checkout, Vercel.
 | 🧬 **[fors](https://github.com/Fors-Corp/fors)** | An experimental systems programming language: own backends (no LLVM), capability security, deterministic parallelism. Spec, conformance corpus, Rust bootstrap compiler |
 | ✅ **[agent-fundamentals](https://github.com/Fors-Corp/agent-fundamentals)** | Checklist for working professionally with Claude and coding agents, in 7 languages (MIT) |
 | 🩺 **[health-overview](https://github.com/Fors-Corp/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health; recent work added spend guardrails, weight phases and notes-log import ([PR #13](https://github.com/Fors-Corp/health-overview/pull/13), [PR #9](https://github.com/Fors-Corp/health-overview/pull/9)) |
-| 📚 **[wordkeep](https://wordkeep.me)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages; recent work added device-first storage with optional sync and a seven-language UI |
 | ☁️ **[self-hosted-cloud](https://github.com/marcfs31/self-hosted-cloud)** | Private file cloud for a Raspberry Pi 5, reachable over Tailscale; recent work hardened CI and pinned container base images ([PR #2](https://github.com/marcfs31/self-hosted-cloud/pull/2)) |
 | 🧑‍💻 **[InterviewKit](https://github.com/marcfs31/interviewkit-fors-edition)** | AI-assisted technical interview practice with code feedback and study cards; recent work improved AI feedback, accessibility and security ([PR #19](https://github.com/marcfs31/interviewkit-fors-edition/pull/19), [PR #15](https://github.com/marcfs31/interviewkit-fors-edition/pull/15), [PR #14](https://github.com/marcfs31/interviewkit-fors-edition/pull/14)) |
 | 🖥️ **[marcfors.com](https://github.com/Fors-Corp/marcfors.com)** | This portfolio: first-party web vitals, a supply-chain audit on every build, six locales |
