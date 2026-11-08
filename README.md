@@ -162,6 +162,7 @@ Personal lexicon with spaced-repetition review, etymology, and a 3D atlas linkin
 
 ### [Embedded RAG](https://github.com/Fors-Corp/embedded-rag)
 [![Repo](https://img.shields.io/badge/Fors--Corp%2Fembedded--rag-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/embedded-rag)
+[![Live](https://img.shields.io/badge/embedded--rag.vercel.app-live-16C7B0)](https://embedded-rag.vercel.app/)
 
 Local-first retrieval-augmented generation — embed your own documents in-process and ground LLM answers with retrieved context.
 
