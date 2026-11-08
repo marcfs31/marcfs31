@@ -113,6 +113,25 @@ Enterprise software for the Justice Department's judicial case-management system
 
 ## 🚀 Selected work
 
+**Featured** — [Mensura](https://github.com/Fors-Corp/Mensura), [Wordkeep](https://github.com/Fors-Corp/wordkeep), [Embedded RAG](https://github.com/Fors-Corp/embedded-rag)
+
+### [Mensura](https://github.com/Fors-Corp/Mensura)
+[![Repo](https://img.shields.io/badge/Fors--Corp%2FMensura-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/Mensura)
+[![Live](https://img.shields.io/badge/mensura.cc-live-16C7B0)](https://www.mensura.cc/)
+
+Private, offline-first hourly consumption tracker that learns an on-device forecast from your own logs — timing, recency, amount and cross-substance patterns stay in the browser.
+
+### [Wordkeep](https://github.com/Fors-Corp/wordkeep)
+[![Repo](https://img.shields.io/badge/Fors--Corp%2Fwordkeep-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/wordkeep)
+[![Live](https://img.shields.io/badge/wordkeep.me-live-16C7B0)](https://wordkeep.me)
+
+Personal lexicon with spaced-repetition review, etymology, and a 3D atlas linking words across languages — device-first storage, optional end-to-end encrypted sync. App Store release pending.
+
+### [Embedded RAG](https://github.com/Fors-Corp/embedded-rag)
+[![Repo](https://img.shields.io/badge/Fors--Corp%2Fembedded--rag-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/embedded-rag)
+
+Local-first retrieval-augmented generation — embed your own documents in-process and ground LLM answers with retrieved context.
+
 ### [forsight](https://github.com/Fors-Corp/forsight)
 [![CI](https://github.com/Fors-Corp/forsight/actions/workflows/ci.yml/badge.svg)](https://github.com/Fors-Corp/forsight/actions/workflows/ci.yml)
 [![Storybook](https://img.shields.io/badge/Storybook-live-16C7B0)](https://marcfs31.github.io/forsight/)
@@ -124,16 +143,6 @@ Observability platform: a Go agent (collectors, in-memory store, HTTP API, embed
 [![Storybook](https://img.shields.io/badge/Storybook-live-16C7B0)](https://marcfs31.github.io/fors-design-system/)
 
 Shared React component library and brand tokens behind every product I ship: **30 Radix-backed components**, dark/light theming, **WCAG 2.1 AA**, published to GitHub Packages.
-
-### [wordkeep](https://wordkeep.me)
-[![Live](https://img.shields.io/badge/wordkeep.me-live-16C7B0)](https://wordkeep.me)
-
-Personal lexicon with active recall, etymology, and a 3D cross-language word atlas.
-
-### [Mensura](https://www.mensura.cc/)
-[![Live](https://img.shields.io/badge/mensura.cc-live-16C7B0)](https://www.mensura.cc/)
-
-Private, offline-first hourly consumption tracker.
 
 ### [Fors Photography](https://fors-photography.vercel.app)
 [![Live](https://img.shields.io/badge/fors--photography-live-16C7B0)](https://fors-photography.vercel.app)
@@ -147,7 +156,6 @@ Fine art print shop for my photographs — Next.js 16, Stripe Checkout, Vercel.
 | 🧬 **[fors](https://github.com/Fors-Corp/fors)** | An experimental systems programming language: own backends (no LLVM), capability security, deterministic parallelism. Spec, conformance corpus, Rust bootstrap compiler |
 | ✅ **[agent-fundamentals](https://github.com/Fors-Corp/agent-fundamentals)** | Checklist for working professionally with Claude and coding agents, in 7 languages (MIT) |
 | 🩺 **[health-overview](https://github.com/Fors-Corp/health-overview)** | Body-composition tracker — reads InBody reports from a PDF or photo (**Claude vision** as the OCR fallback), merges with Apple Health; recent work added spend guardrails, weight phases and notes-log import ([PR #13](https://github.com/Fors-Corp/health-overview/pull/13), [PR #9](https://github.com/Fors-Corp/health-overview/pull/9)) |
-| 📚 **[wordkeep](https://wordkeep.me)** | Personal lexicon with spaced-repetition review and a 3D atlas linking words across four languages; recent work added device-first storage with optional sync and a seven-language UI |
 | ☁️ **[self-hosted-cloud](https://github.com/marcfs31/self-hosted-cloud)** | Private file cloud for a Raspberry Pi 5, reachable over Tailscale; recent work hardened CI and pinned container base images ([PR #2](https://github.com/marcfs31/self-hosted-cloud/pull/2)) |
 | 🧑‍💻 **[InterviewKit](https://github.com/marcfs31/interviewkit-fors-edition)** | AI-assisted technical interview practice with code feedback and study cards; recent work improved AI feedback, accessibility and security ([PR #19](https://github.com/marcfs31/interviewkit-fors-edition/pull/19), [PR #15](https://github.com/marcfs31/interviewkit-fors-edition/pull/15), [PR #14](https://github.com/marcfs31/interviewkit-fors-edition/pull/14)) |
 | 🖥️ **[marcfors.com](https://github.com/Fors-Corp/marcfors.com)** | This portfolio: first-party web vitals, a supply-chain audit on every build, six locales |
