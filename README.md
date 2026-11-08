@@ -152,7 +152,7 @@ Enterprise software for the Justice Department's judicial case-management system
 [![Repo](https://img.shields.io/badge/Fors--Corp%2FMensura-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/Mensura)
 [![Live](https://img.shields.io/badge/mensura.cc-live-16C7B0)](https://www.mensura.cc/)
 
-Private, offline-first hourly consumption tracker that learns an on-device forecast from your own logs — timing, recency, amount and cross-substance patterns stay in the browser.
+Private, offline-first hourly tracker that learns an on-device forecast from your own logs — timing, recency, amounts and recurring patterns stay in the browser.
 
 ### [Wordkeep](https://github.com/Fors-Corp/wordkeep)
 [![Repo](https://img.shields.io/badge/Fors--Corp%2Fwordkeep-0d0d10?style=flat-square&logo=github)](https://github.com/Fors-Corp/wordkeep)
