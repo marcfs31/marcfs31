@@ -46,11 +46,11 @@ Small scope, clear milestones, working software early. Write to [developer@marcf
 ## 📈 Contributions
 
 <!-- CONTRIBUTIONS:START -->
-**4,498** contributions in the last 12 months · **4,709** all time
+**4,636** contributions in the last 12 months · **4,847** all time
 
-Commits 739 · Pull requests 234 · Reviews 18 · Private 3,497 (last 12 months, public + private, personal + Fors Corp)
+Commits 798 · Pull requests 247 · Reviews 19 · Private 3,562 (last 12 months, public + private, personal + Fors Corp)
 
-_Last updated: 2026-11-08 (Europe/Madrid)_
+_Last updated: 2026-11-09 (Europe/Madrid)_
 <!-- CONTRIBUTIONS:END -->
 
 Go · Rust · TypeScript · Python — shipped with CI on every merge.
